@@ -1,7 +1,3 @@
-Aquí tienes tu **README.md completo, profesional y listo para GitHub**, adaptado exactamente a la estructura real que me pasaste:
-
----
-
 # 🖥️ ProyectoAso
 
 ## Administrador Gráfico de Samba para Linux
