@@ -1,4 +1,4 @@
-# 🖥️ ProyectoAso
+# 🖥️ Administrador de samba
 
 ## Administrador Gráfico de Samba para Linux
 
