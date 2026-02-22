@@ -1,0 +1,58 @@
+# =========================
+# NetBeans
+# =========================
+nbproject/private/
+nbproject/private/private.xml
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Archivo de bloqueo de NetBeans
+nbproject/private/private.xml
+
+# =========================
+# Compilación Java
+# =========================
+build/
+build/*
+*.class
+*.jar
+*.war
+*.ear
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Archivos temporales
+# =========================
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# =========================
+# Maven (si usas Maven)
+# =========================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# =========================
+# Gradle (si usas Gradle)
+# =========================
+.gradle/
+build/
+
+# =========================
+# Configuración del sistema
+# =========================
+*.iml
+.idea/
